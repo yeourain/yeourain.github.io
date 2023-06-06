@@ -10,12 +10,18 @@ main:
     url: /search/
 
 docs:
-  - title: "목차"
+  - title: "Contents"
     children:
       - title: "Category"
         url: /categories/
       - title: "Tag"
         url: /tags/
+
+counts:
+  - title: "Category"
+    use: true
+  - title: "Tag"
+    use: true
 
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
