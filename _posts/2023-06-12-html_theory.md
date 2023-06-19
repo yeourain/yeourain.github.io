@@ -37,7 +37,7 @@ Markup Language : 태그로 구서된 구조적 언어
 
 웹컨텐츠의 구조와 의미를 정의함
 
-## HTML의 역사
+### HTML의 역사
 
 HTML5(표준안)
 
